@@ -9,7 +9,7 @@ Trabalho referente a disciplina de Inteligência Computacional, na qual consiste
 # Execução
 1. Baixe o Zip;
 2. Extraia o contéudo;
-3. Abrir o no PyCharm IDE;
+3. Abrir em PyCharm IDE;
 4. Execute o arquivo main.py que está em *Logica-Fuzzy/main.py*.
 
 # Autores
