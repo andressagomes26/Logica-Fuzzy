@@ -5,9 +5,7 @@ from ex02 import libera_freio, aperta_freio
 from centroide import centroide
 
 ''' Nome: Andressa Gomes Moreira
-    Matrícula: 402305
     Disciplina: Inteligência Computacional - Exercício01
-    Professor: Jarbas Joaci
 '''
 #Mostrará todas as saídas:
 
