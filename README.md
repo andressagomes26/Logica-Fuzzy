@@ -3,17 +3,17 @@ Trabalho referente a disciplina de Inteligência Computacional, na qual consiste
 - "Inteligência Artificial, Ben Coppin, LTC – Livros Técnicos e Científicos Editora S.A, 2010".
 
 # Dependências
-- PyCharm IDE
-- Python 3.7.3
+- PyCharm IDE;
+- Python 3.7.3.
 
 # Execução
 1. Baixe o Zip;
 2. Extraia o contéudo;
 3. Abrir o no PyCharm IDE;
-4. Execute o arquivo main.py que está em *Logica-Fuzzy/main.py*
+4. Execute o arquivo main.py que está em *Logica-Fuzzy/main.py*.
 
 # Autores
-- Andressa Gomes Moreira - andressa_gomes.12@hotmail.com
+- Andressa Gomes Moreira - andressa_gomes.12@hotmail.com .
 
 # Status do Projeto
 O projeto encontra-se finalizado, pois o objetivo foi alcançado, porém, está sujeito a devidas mudanças e melhorias. 
