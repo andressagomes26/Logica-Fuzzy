@@ -18,3 +18,5 @@ Trabalho referente a disciplina de Inteligência Computacional, na qual consiste
 ## Status do Projeto
 O projeto encontra-se finalizado, pois o objetivo foi alcançado, porém, está sujeito a devidas mudanças e melhorias. 
 
+## Licença
+- MIT
